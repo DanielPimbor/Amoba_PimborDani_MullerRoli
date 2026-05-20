@@ -5,8 +5,9 @@ print('A cél, hogy 3 azonos jel egymás mellé kerüljön.\n')
 
 def tabla_kiir(i):
     for sor in i:
-        print(sor)
-
+        for adat in sor:
+            print(adat, end=" ")
+        print()
 
 def nyeres(jel):
     return (
