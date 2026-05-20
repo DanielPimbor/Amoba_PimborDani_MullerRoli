@@ -106,5 +106,5 @@ while True:
     ujra = input('\nAkartok még játszani? (i/n): ')
 
     if ujra != 'i':
-        print('Kilépés...')
+        print('Viszláááát!')
         break
