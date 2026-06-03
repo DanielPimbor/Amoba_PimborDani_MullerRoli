@@ -97,7 +97,7 @@ while True:
         tabla_kiir(mezo)
 
         if nyeres('O'):
-            print('\nA 2. játékos nyert!')
+            print('\nA 2. játékos nyert! ')
             break
 
         if döntetlen():
